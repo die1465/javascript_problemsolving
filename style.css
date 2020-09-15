@@ -1,0 +1,8 @@
+#main {
+    display: flex;
+}
+#navbar {
+    text-align: center;
+    
+    border-style: solid;
+}
